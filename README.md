@@ -16,7 +16,7 @@ A simple web-based Library Management System built using PHP, MySQL, HTML, and C
 5. Open your browser and go to `http://localhost/library_management_system`
 
 ## 📸 Screenshots
-![Screenshot 2025-05-06 204907](https://github.com/user-attachments/assets/743ae79a-a63e-4a8c-894e-a952c51c543d)
+![Screenshot 2025-05-06 210527](https://github.com/user-attachments/assets/7d7d89fd-53cf-41ef-89c1-7df7c7e75ad4)
 ![Screenshot 2025-05-06 210405](https://github.com/user-attachments/assets/ce3370a4-63e5-4622-881f-ae996c32717a)
 ![Screenshot 2025-05-06 205739](https://github.com/user-attachments/assets/3f2f413e-e6c6-41d2-8e57-69ed2cb917ef)
 ![Screenshot 2025-05-06 205839](https://github.com/user-attachments/assets/110c715c-8628-43aa-8deb-39305b915ef4)
